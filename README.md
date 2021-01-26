@@ -28,7 +28,7 @@ Die Dateien herunterladen und im DayZ Server Ordner (\Steam\steamapps\common\Day
  
  
 #### :: Start.bat - Startet den Server
-Startet die 64Bit version des DayZ Standalone Servers, lädt die Konfigurationsdateien und erstellt einen Ordner für Logfiles unter "C:\Users\%USERNAME%\Documents\DayZServer_SERVERNAME".
+Startet die 64Bit version des DayZ Standalone Servers, lädt die Konfigurationsdateien und erstellt einen Ordner für Logfiles unter "C:\Users\\%USERNAME%\Documents\DayZServer_SERVERNAME".
  
  
  
