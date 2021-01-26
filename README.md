@@ -17,7 +17,8 @@ Es wurden hilfreiche Admin Befehle hinzugefügt.
 !goto Name     - Du wirst zu dem Spieler 'Name' Teleportiert. Name duch Spielernamen ersetzen. Standard Spielername ist "Survivor".  
 !here Name     - Der Spieler 'Name' wird zu dir Teleportiert. Name duch Spielernamen ersetzen. Standard Spielername ist "Survivor".  
 !tppos X Y     - Teleportiert dich an die eingegebene Koordinate. Die Webseite https://dayz.ginfo.gg ist hier sehr hilfreich.  
-!pos           - Gibt deinen aktuellen Koordinaten aus. Diese kann man dann auf der Webseite eingeben.```  
+!pos           - Gibt deinen aktuellen Koordinaten aus. Diese kann man dann auf der Webseite eingeben.
+```  
 
 
 
