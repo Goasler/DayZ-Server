@@ -1,0 +1,1 @@
+start "DayZ Server" "DayZServer_x64.exe" -profiles=C:\Users\%USERNAME%\Documents\DayZServer_SERVERNAME -adminLog -netLog -config=serverDZ.cfg 
