@@ -2,7 +2,7 @@
 DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 
 #### :: Informationen zu den Servereinstellungen
-Ideal für Coop (bis zu 10 spieler)
+Ideal für Coop (bis zu 10 spieler)⋅⋅
 Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht zyklus, meistens Warm, man findet viel Essen/Trinken)
 Als Startgegenstand wurde der Schraubenzieher hinzugefügt. Jeder neue Spieler bekommt zusätzlich einen Schraubenzieher. Praktisch zum Dosenöffnen ;) .
 Der Server ist sowohl für die Standardkarte als auch für die DLC Karte vorbereitet.
