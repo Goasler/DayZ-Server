@@ -9,7 +9,7 @@ Der Server ist sowohl für die Standardkarte als auch für die DLC Karte vorbere
 Es wurden hilfreiche Admin Befehle hinzugefügt.
 
 #### :: Admin Befehle
-`!Regen         - Es wird aufhören zu Regnen
+`!Regen         - Es wird aufhören zu Regnen\n
 !Nebel         - Der Nebel entfernt sich
 !Gewitter      - Das Gewitter zieht vorüber
 !Tag           - Es wird Tag (12 Uhr)
