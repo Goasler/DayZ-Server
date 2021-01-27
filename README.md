@@ -23,9 +23,9 @@ Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später 
 !pos           - Gibt deinen aktuellen Koordinaten aus. Diese kann man dann auf der Webseite eingeben.
 !hilfe         - Gibt eine Übersicht über alle Befehle aus  
 ```  
-
-
-
+  
+  
+___
 #### :: Installation
 Backup first - Bitte sichere zuerst eine Kopie deiner DayZServer Dateien!  
 Die Dateien im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben.  
