@@ -23,7 +23,7 @@ Es wurden hilfreiche Admin Befehle hinzugefügt.
 
 
 #### :: Installation
-Die Dateien herunterladen und im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen.
+Die Dateien herunterladen und im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen.  
  
  
  
@@ -33,27 +33,27 @@ Startet die 64Bit version des DayZ Standalone Servers, lädt die Konfigurationsd
  
  
 #### :: serverDZ.cfg - Die Konfigurationsdatei für den Server
-Bitte in der ersten Zeile "EXAMPLE NAME" durch den gewünschen Servernamen ersetzen andernfalls startet der Server nicht.
-WICHTIG: Bitte unbedingt unter passwordAdmin = ""; ein Admin Kennwort setzen!
-Hier kann man den Tag/Nacht zyklus oder die Startzeit auf seine eigenen wünsche anpassen. Beschreibung ist in der Datei enthalten.
+Bitte in der ersten Zeile "EXAMPLE NAME" durch den gewünschen Servernamen ersetzen andernfalls startet der Server nicht.  
+WICHTIG: Bitte unbedingt unter passwordAdmin = ""; ein Admin Kennwort setzen!  
+Hier kann man den Tag/Nacht zyklus oder die Startzeit auf seine eigenen wünsche anpassen. Beschreibung ist in der Datei enthalten.  
  
  
  
 #### :: init.c - Beinhaltet die Wetterkontrolle und die selbst erstellten Befehle
-Falls man englische Sprache nutzen möchte löscht man die init.c und ändert die "init.c_en" in "init.c".
-Keine änderungen in dieser Datei vornehmen! Andernfalls führt das zu einem Absturz, Datenverlust oder einem instabilem Server!
+Falls man englische Sprache nutzen möchte löscht man die init.c und ändert die "init.c_en" in "init.c".  
+Keine änderungen in dieser Datei vornehmen! Andernfalls führt das zu einem Absturz, Datenverlust oder einem instabilem Server!  
  
  
  
 #### :: types.xml - Beinhaltet die verteilungsrate von Essen, Waffen, etc.
-Es wurde nur die häufigkeit von Nahrung erhöht da man sonst permanent den Hungertod stirbt.
+Es wurde nur die häufigkeit von Nahrung erhöht da man sonst permanent den Hungertod stirbt.  
  
  
  
 #### :: messages.xml - Nachrichten des Servers
-Beinhaltet eine Willkommensnachricht für jeden Spieler der Beitritt. Bitte hier den Text anpassen/ändern.
+Beinhaltet eine Willkommensnachricht für jeden Spieler der Beitritt. Bitte hier den Text anpassen/ändern.  
  
  
  
 #### :: globals.xml - Globale Servereinstellungen
-Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coop sonst besonders nervig.
+Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coop sonst besonders nervig.  
