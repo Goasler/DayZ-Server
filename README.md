@@ -29,10 +29,11 @@ Ideal für Coop, einen leichten Einstieg in DayZ und enthält zudem nützliche F
   
 ___
 #### :: Installation
-Backup first - Bitte sichere zuerst eine Kopie deiner DayZServer Dateien!  
-Die Dateien im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben.  
-In der serverDZ.cfg "EXAMPLE NAME" durch den gewünschten Servernamen ersetzen.  
-Der Server kann nun über die `start.bat` gestartet werden.
+1. Backup - Bitte sichere zuerst eine Kopie des DayZServer Ordners!  
+2. Die Dateien im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben  
+3. In der serverDZ.cfg "EXAMPLE NAME" durch den gewünschten Servernamen ersetzen  
+4. Willkommensnachricht in der messages.xml anpassen  
+5. Fertig - Der Server kann nun über die `start.bat` gestartet werden.  
  
  
 #### :: Start.bat - Startet den Server
