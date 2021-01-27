@@ -60,3 +60,8 @@ Beinhaltet eine Willkommensnachricht für jeden Spieler der Beitritt. Bitte hier
  
 #### :: globals.xml - Globale Servereinstellungen
 Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coop sonst besonders nervig.  
+  
+  
+  
+## Links
+DayZ Stanalone ohne Battleye - https://mega.nz/folder/i3BgDCBJ#jSIAEUeoHrbSFiftYhYMSw
