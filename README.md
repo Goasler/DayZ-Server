@@ -5,7 +5,7 @@ DayZ Standalone Modifizierte Serverfiles - Ideal für Coop (enthält nützliche 
   * Bis zu 10 spieler können beitreten (kann geändert werden in der ServerDZ.cfg)  
   * Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht Zyklus, meistens Warm, man findet häufiger Essen/Trinken)  
   * Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen)  
-  * Es wurden hilfreiche Admin Befehle hinzugefügt. ```init.c von Heinrich19800 gebugfixt und stark gekürzt.```  
+  * Es wurden hilfreiche Admin Befehle hinzugefügt.
   * Battleye ist aktiv (Alternativ kann der Server auch ohne gestartet werden, siehe [Links](https://github.com/Goasler/DayZ-Server/blob/main/README.md#links--credits))  
   
 Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
