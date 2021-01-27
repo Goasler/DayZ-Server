@@ -6,6 +6,7 @@ DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
   * Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht Zyklus, meistens Warm, man findet häufiger Essen/Trinken)  
   * Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
   * Es wurden hilfreiche Befehle hinzugefügt. ```init.c von https://github.com/Heinrich19800 gebugfixt und stark gekürzt.```  
+  
 Bekannte Fehler: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch gefixt).  
 
 #### :: Admin Befehle
