@@ -8,7 +8,9 @@ Ideal für Coop, einen leichten Einstieg in DayZ und enthält zudem nützliche F
   * Inklusive hilfreiche Admin Befehle
   * Battleye ist aktiv (Alternativ kann der Server auch ohne gestartet werden, siehe [Links](https://github.com/Goasler/DayZ-Server/blob/main/README.md#links--credits))  
   
-Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
+Wichtig: 
+  * Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
+  * Teleportieren führt zu einem Absturz wenn sich jemand im Auto oder auf einer Leiter befindet.
 
 #### :: Admin Befehle
 ```
