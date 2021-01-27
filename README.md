@@ -63,5 +63,6 @@ Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coo
   
   
   
-## Links
-DayZ Stanalone Server ohne Battleye - https://mega.nz/folder/i3BgDCBJ#jSIAEUeoHrbSFiftYhYMSw - Credit: [CACA9000](https://forum.ragezone.com/members/2000263983.html).
+## Links & Credits
+DayZ Stanalone Server ohne Battleye - https://mega.nz/folder/i3BgDCBJ#jSIAEUeoHrbSFiftYhYMSw - Credit: [CACA9000](https://forum.ragezone.com/members/2000263983.html)
+DayZ Chat Admin Command - (https://github.com/Heinrich19800/DayZ-0.63-Malotru-1/blob/master/init.c) - Credit: [Heinrich19800](https://github.com/Heinrich19800/)
