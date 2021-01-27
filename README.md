@@ -1,5 +1,5 @@
 # DayZ-Standalone-Server
-DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
+DayZ Standalone Modifizierte Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 
 #### :: Informationen zu den Servereinstellungen
   * Bis zu 10 spieler können beitreten (kann geändert werden in der ServerDZ.cfg)  
