@@ -64,4 +64,4 @@ Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coo
   
   
 ## Links
-DayZ Stanalone ohne Battleye - https://mega.nz/folder/i3BgDCBJ#jSIAEUeoHrbSFiftYhYMSw
+DayZ Stanalone Server ohne Battleye - https://mega.nz/folder/i3BgDCBJ#jSIAEUeoHrbSFiftYhYMSw
