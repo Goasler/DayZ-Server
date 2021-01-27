@@ -1,4 +1,4 @@
-# DayZ-Standalone-Server
+# DayZ-Standalone-Custom-Serverfiles
 DayZ Standalone Modifizierte Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 
 #### :: Informationen zu den Servereinstellungen
