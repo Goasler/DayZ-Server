@@ -44,7 +44,7 @@ Hier kann man den Tag/Nacht zyklus oder die Startzeit auf seine eigenen wünsche
  
 #### :: init.c - Beinhaltet die Wetterkontrolle und die hilfreichen Befehle
 Falls man englische Sprache nutzen möchte löscht man die init.c und ändert die "init.c_en" in "init.c".  
-Keine änderungen in dieser Datei vornehmen! Andernfalls führt das zu einem Absturz, Datenverlust oder einem instabilem Server!  
+Keine änderungen in dieser Datei vornehmen! Andernfalls führt das zu einem Absturz, Datenverlust oder einem instabilen Server!  
  
  
  
