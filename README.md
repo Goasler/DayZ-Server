@@ -26,8 +26,8 @@ Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später 
 
 #### :: Installation
 Backup first - Bitte sichert zuerst eine Kopie aller DayZServer Dateien!  
-Die Dateien herunterladen und im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben.  
-In der serverDZ.cfg "EXAMPLE NAME" durch den gewünschen Servernamen ersetzen andernfalls startet der Server nicht.  
+Die Dateien im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben.  
+In der serverDZ.cfg "EXAMPLE NAME" durch den eigenen Servernamen ersetzen.  
  
  
 #### :: Start.bat - Startet den Server
