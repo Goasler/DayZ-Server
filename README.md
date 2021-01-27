@@ -36,7 +36,7 @@ Startet die 64Bit version des DayZ Standalone Servers, lädt die Konfigurationsd
  
  
 #### :: serverDZ.cfg - Die Konfigurationsdatei für den Server
-Bitte in der ersten Zeile "EXAMPLE NAME" durch den gewünschen Servernamen ersetzen andernfalls startet der Server nicht.  
+In der ersten Zeile "EXAMPLE NAME" durch den gewünschen Servernamen ersetzen sonst startet der Server nicht.  
 WICHTIG: Bitte unbedingt unter passwordAdmin = ""; ein Admin Kennwort setzen!  
 Hier kann man den Tag/Nacht zyklus oder die Startzeit auf seine eigenen wünsche anpassen. Beschreibung ist in der Datei enthalten.  
  
