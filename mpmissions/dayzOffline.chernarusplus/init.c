@@ -182,7 +182,7 @@ string cmd_prefix = "!";
 			case "tppos":     { if(count < 3)  { SendMessageToPlayer(player, "!tppos [X] [Y]");                  return; } float ATL_Z = GetGame().SurfaceY(tokens[1].ToFloat(), tokens[2].ToFloat()); vector reqpos = Vector(tokens[1].ToFloat(), ATL_Z, tokens[2].ToFloat()); temp_player = player;  temp_player.SetPosition(reqpos); SendMessageToPlayer(temp_player, "Teleportiert zu: " + reqpos ); break; }
 			case "pos":       { if(count != 1) { SendMessageToPlayer(player, "!Position");                       return; } SendMessageToPlayer(player, "Deine Coordinaten: " + player.GetPosition()); break; }
 /* Hilfe ------------------------------------------------------------------------------------------------------ */
-			case "hife":      { SendMessageToPlayer(player, "Hilfemenü - Die folgenden Befehle stehen dir zur Verfügung:"); 
+			case "hilfe":      { SendMessageToPlayer(player, "Hilfemenü - Die folgenden Befehle stehen dir zur Verfügung:"); 
 								SendMessageToPlayer(player, "!Regen         - Es wird aufhören zu Regnen"); 
 								SendMessageToPlayer(player, "!Nebel         - Der Nebel zieht vorüber"); 
 								SendMessageToPlayer(player, "!Gewitter      - Das Gewitter zieht vorüber");
