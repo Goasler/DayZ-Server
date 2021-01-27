@@ -6,6 +6,7 @@ DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
   * Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht Zyklus, meistens Warm, man findet häufiger Essen/Trinken)  
   * Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
   * Es wurden hilfreiche Befehle hinzugefügt. ```init.c von Heinrich19800 gebugfixt und stark gekürzt.```  
+  * Battleye ist aktiv (Alternativ kann dieser auch ohne BE gestartet werden, siehe Links)  
   
 Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
 
@@ -61,6 +62,8 @@ Beinhaltet eine Willkommensnachricht für jeden Spieler der Beitritt. Bitte hier
 #### :: globals.xml - Globale Servereinstellungen
 Hier wurde die 15 Sekündige Login Wartezeit entfernt. Spart Zeit und ist im Coop sonst besonders nervig.  
   
+  
+___
   
   
 ## Links & Credits
