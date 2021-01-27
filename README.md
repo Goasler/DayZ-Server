@@ -27,7 +27,7 @@ Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später 
 
 
 #### :: Installation
-Backup first - Bitte sichert zuerst eine Kopie aller DayZServer Dateien!  
+Backup first - Bitte sichere zuerst eine Kopie deiner DayZServer Dateien!  
 Die Dateien im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen/überschreiben.  
 In der serverDZ.cfg "EXAMPLE NAME" durch den gewünschten Servernamen ersetzen.  
  
