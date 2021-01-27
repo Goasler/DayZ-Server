@@ -6,7 +6,8 @@ Ideal für Coop (bis zu 10 spieler)
 Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht zyklus, meistens Warm, man findet viel Essen/Trinken)  
 Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
 Der Server ist sowohl für die Standardkarte als auch für die DLC Karte vorbereitet.  
-Es wurden hilfreiche Admin Befehle hinzugefügt.  
+Es wurden hilfreiche Befehle hinzugefügt.  Ich habe hierzu die init.c von https://github.com/Heinrich19800 gebugfixt und aufs wesentliche gekürzt.  
+Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch gefixt).  
 
 #### :: Admin Befehle
 ```!Regen         - Es wird aufhören zu Regnen  
@@ -18,14 +19,14 @@ Es wurden hilfreiche Admin Befehle hinzugefügt.
 !here Name     - Der Spieler 'Name' wird zu dir Teleportiert. Name duch Spielernamen ersetzen. Standard Spielername ist "Survivor".  
 !tppos X Y     - Teleportiert dich an die eingegebene Koordinate. Die Webseite https://dayz.ginfo.gg ist hier sehr hilfreich.  
 !pos           - Gibt deinen aktuellen Koordinaten aus. Diese kann man dann auf der Webseite eingeben.
-!
+!hilfe         - Gibt eine Übersicht über alle Befehle aus  
 ```  
 
 
 
 #### :: Installation
 Die Dateien herunterladen und im DayZ Server Ordner (\Steam\steamapps\common\DayZServer) einfügen.  
- 
+Bestehende Dateien dabei überschreiben.  
  
  
 #### :: Start.bat - Startet den Server
@@ -40,7 +41,7 @@ Hier kann man den Tag/Nacht zyklus oder die Startzeit auf seine eigenen wünsche
  
  
  
-#### :: init.c - Beinhaltet die Wetterkontrolle und die selbst erstellten Befehle
+#### :: init.c - Beinhaltet die Wetterkontrolle und die hilfreichen Befehle
 Falls man englische Sprache nutzen möchte löscht man die init.c und ändert die "init.c_en" in "init.c".  
 Keine änderungen in dieser Datei vornehmen! Andernfalls führt das zu einem Absturz, Datenverlust oder einem instabilem Server!  
  
