@@ -2,12 +2,11 @@
 DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 
 #### :: Informationen zu den Servereinstellungen
-Ideal für Coop (bis zu 10 spieler)  
-Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht zyklus, meistens Warm, man findet viel Essen/Trinken)  
-Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
-Der Server ist sowohl für die Standardkarte als auch für die DLC Karte vorbereitet.  
-Es wurden hilfreiche Befehle hinzugefügt.  Ich habe hierzu die init.c von https://github.com/Heinrich19800 gebugfixt und aufs wesentliche gekürzt.  
-Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch gefixt).  
+⋅⋅* Bis zu 10 spieler können beitreten (kann geändert werden in der ServerDZ.cfg)  
+⋅⋅* Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht Zyklus, meistens Warm, man findet häufiger Essen/Trinken)  
+⋅⋅* Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
+⋅⋅* Es wurden hilfreiche Befehle hinzugefügt.  Ich habe hierzu die init.c von https://github.com/Heinrich19800 gebugfixt und aufs wesentliche gekürzt.  
+Bekannte Fehler: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch gefixt).  
 
 #### :: Admin Befehle
 ```!Regen         - Es wird aufhören zu Regnen  
