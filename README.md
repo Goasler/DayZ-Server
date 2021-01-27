@@ -11,7 +11,8 @@ DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
 
 #### :: Admin Befehle
-```!Regen         - Es wird aufhören zu Regnen  
+```
+!Regen         - Es wird aufhören zu Regnen  
 !Nebel         - Der Nebel entfernt sich  
 !Gewitter      - Das Gewitter zieht vorüber  
 !Tag           - Es wird Tag (12 Uhr)  
