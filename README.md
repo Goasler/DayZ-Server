@@ -7,7 +7,7 @@ DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
   * Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
   * Es wurden hilfreiche Befehle hinzugefügt. ```init.c von https://github.com/Heinrich19800 gebugfixt und stark gekürzt.```  
   
-Bekannte Fehler: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch gefixt).  
+Wichtig: Aktuell kann die Befehle jeder auf dem Server ausführen (wird später noch geändert).  
 
 #### :: Admin Befehle
 ```!Regen         - Es wird aufhören zu Regnen  
