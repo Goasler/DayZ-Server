@@ -4,7 +4,7 @@ DayZ Standalone Serverfiles - Ideal für Coop (enthält nützliche Funktionen)
 #### :: Informationen zu den Servereinstellungen
 Ideal für Coop (bis zu 10 spieler)  
 Schwierigkeit: Einfach (Es ist immer Tag, kein Tag/Nacht zyklus, meistens Warm, man findet viel Essen/Trinken)  
-Als Startgegenstand wurde der Schraubenzieher hinzugefügt, den jeder neue Spieler bekommt. Praktisch zum Dosenöffnen ;) .  
+Schraubenzieher als Startgegenstand (Praktisch zum Dosenöffnen).  
 Der Server ist sowohl für die Standardkarte als auch für die DLC Karte vorbereitet.  
 Es wurden hilfreiche Admin Befehle hinzugefügt.  
 
@@ -18,6 +18,7 @@ Es wurden hilfreiche Admin Befehle hinzugefügt.
 !here Name     - Der Spieler 'Name' wird zu dir Teleportiert. Name duch Spielernamen ersetzen. Standard Spielername ist "Survivor".  
 !tppos X Y     - Teleportiert dich an die eingegebene Koordinate. Die Webseite https://dayz.ginfo.gg ist hier sehr hilfreich.  
 !pos           - Gibt deinen aktuellen Koordinaten aus. Diese kann man dann auf der Webseite eingeben.
+!
 ```  
 
 
