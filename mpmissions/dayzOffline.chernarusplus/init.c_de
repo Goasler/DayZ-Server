@@ -170,7 +170,7 @@ string cmd_prefix = "!";        // Must be special character
 		param0.ParseStringEx(prefix); if(prefix != cmd_prefix) return;
 		param0.ParseStringEx(command);
 		switch(command) {
-/* Weather & Time --------------------------------------------------------------------------------------------------------- */
+/* Wetter & Zeit --------------------------------------------------------------------------------------------------------- */
 			case "Regen":     { GetGame().GetWeather().GetRain().Set(0, 0, 0); for (i = 0; i < players.Count(); i++) { temp_player = players.Get(i); SendMessageToPlayer(temp_player, "Es hat aufgehört zu Regnen."); } break; }
 			case "Nebel":     { GetGame().GetWeather().GetFog().Set(0, 0, 0); for (i = 0; i < players.Count(); i++) { temp_player = players.Get(i); SendMessageToPlayer(temp_player, "Der Himmel klart auf."); } break; }
 			case "Gewitter":  { GetGame().GetWeather().GetOvercast().Set(0, 0, 0); for (i = 0; i < players.Count(); i++) { temp_player = players.Get(i); SendMessageToPlayer(temp_player, "Das Gewitter zieht vorüber."); } break; }
